@@ -1,1 +1,1 @@
-# data_in_cloud_lab_1
+# dic-slisarenko-max
