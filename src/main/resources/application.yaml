@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/books
+    username: postgres
+    password: postgres
+  jpa:
+    open-in-view: false
+    hibernate.ddl-auto: validate
+  flyway:
+    enabled: true
